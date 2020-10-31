@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ElegantCalendar",
+        "repositoryURL": "https://github.com/ThasianX/ElegantCalendar",
+        "state": {
+          "branch": null,
+          "revision": "64e422511f1620aaa4744acd1c345e7d6e2f5a29",
+          "version": "4.3.0"
+        }
+      },
+      {
+        "package": "ElegantColorPalette",
+        "repositoryURL": "https://github.com/ThasianX/ElegantColorPalette",
+        "state": {
+          "branch": null,
+          "revision": "cf8628ad84314db868659db57cafb3e1403b3fe6",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "ElegantPages",
+        "repositoryURL": "https://github.com/ThasianX/ElegantPages",
+        "state": {
+          "branch": null,
+          "revision": "d598ce4824c40296decc84eae5b3c042d3dff842",
+          "version": "1.4.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
